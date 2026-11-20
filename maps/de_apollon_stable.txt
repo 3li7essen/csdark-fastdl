@@ -1,0 +1,8 @@
+Author: Serj
+Slots: 32
+Thanks: Indicated in the Easter egg.
+A remake of the de_abaddon map.
+Special forces assistance in the form of the latest weapons for the destruction of terrorists was dropped from the plane into the combat zone,
+The terrorists were in the cargo landing zone earlier and some of the boxes with weapons were seized by the terrorists.
+TT's task: To capture and destroy the positions of the special forces, if possible, to pick up the remnants of weapons
+The task of CT: To destroy the terrorists and return the stolen weapons

@@ -1,4 +1,1 @@
-maps/de_dust2.res
-maps/fy_iceworld.res
-de_vertigo.wad
-de_vegas.wad
+// Official de_dust2 uses standard assets built into Counter-Strike 1.6

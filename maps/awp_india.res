@@ -1,0 +1,10 @@
+maps/awp_india.res
+sound/misc/monsterkill.wav
+sound/misc/multikill.wav
+sound/misc/killingspree.wav
+sound/misc/humiliation.wav
+sound/misc/ultrakill.wav
+sound/misc/headshot.wav
+sound/misc/rampage.wav
+sound/misc/godlike.wav
+sound/misc/prepare.wav
